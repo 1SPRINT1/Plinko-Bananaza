@@ -1,0 +1,1 @@
+﻿public class ShopMenuScreen : MenuScreen {}
